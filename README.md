@@ -4,7 +4,7 @@ Data Analyst Portfolio
 
 Tools needed - Microsoft SQL server, Tableau
 
-[Project 1: Covid 19 overview](https://ronhaim.github.io/covid19_portfolio/)
+[**Project 1: Covid 19 overview**](https://ronhaim.github.io/covid19_portfolio/)
 
 * Total death, total cases & death precentage all over the world
 * Showing infaction precent each country
